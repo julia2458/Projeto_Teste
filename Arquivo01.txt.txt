@@ -1,3 +1,5 @@
 Testando arquivo 01
 
 Arquivo editado pelo git hub em 24/03/2024 às 17h28
+
+Pequena atualização feita no arquivo
